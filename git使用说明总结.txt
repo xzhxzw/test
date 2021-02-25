@@ -1,0 +1,13 @@
+使用linux操作系统的命令
+
+mkdir建立新的文件夹
+cd进入该文件夹
+git init生成仓库（本地仓库）
+touch命令可直接生成文件
+git add 文件名：上传至暂存区
+git commit -m 文件名：上传至仓库
+rm -rf 文件名：删除文件
+git rm 文件名：在仓库中删除文件
+
+git push:将本地仓库同步到远程仓库
+git clone: 可以根据参数url 将仓库下载到本地
